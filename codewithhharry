@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>semantic tags</title>
+</head>
+
+<body>
+
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="https://www.codewithharry.com/">home</a>
+                </li>
+                <li>
+                    <a href="https://www.codewithharry.com/contact/">contact</a>
+                </li>
+                <li>about</li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>LEARNING ABOUT SEMANTIC TAGS?</h1>
+        <h2>TODAY I AM GOING TO LEARN ABOUT SEMMANTIC TAGS</h2>
+    </main>
+
+    <h3>what are semantic tags?</h3>
+    <p>Semantic tags add meaning to your HTML. They tell both the browser and the developer what kind of content is
+        being presented.</p>
+    Here are some of the key semantic tags you must know about:
+    <ol>
+        <li>
+            <code>"&lt;header&gt;"</code>Used to represent the top section of a web page, often containing headings,
+            logos, and navigation.
+        </li>
+        <li>
+            <code>"&lt;nav&gt;"</code> Signifies a navigation menu on a web page.
+        </li>
+        <li>
+            <code>"&lt;articles&gt;"</code>: Indicates a self-contained piece of content, such as a blog post or news
+            article.
+        </li>
+        <li>
+            <code>"&lt;section"&gt;</code>: Represents a thematic grouping of content on a web page.
+        </li>
+        <li>
+            <code>"&lt;aside"&gt;</code> : Typically used for sidebars or content that is tangentially related to the
+            main content.
+        </li>
+        <li>
+            <code>"&lt;footer&gt;"</code>: Represents the footer of a web page, usually containing copyright information
+            and contact details.
+        </li>
+        <li>
+            <code>"&lt;figure"&gt;</code> and <code>"&lt;figcaption"&gt;</code> : Used for embedding images, diagrams,
+            or charts, along with a
+            caption.
+        </li>
+        <li>
+            <code>"&lt;main"&gt;</code>: Signifies the main content area of a web page.
+        </li>
+        <li>
+            <code>"&lt;time"&gt;</code>: Used to represent time-related information, like dates and times.
+        </li>
+    </ol>
+    <H2>
+        <img src="semantic-tags.png" width="600" height="600" alt="differnces between semantic and non semantic tags?">
+    </H2>
+    <h2>
+        Why Use Semantic Tags?
+    </h2>
+    <p>
+        They enhance SEO, improve accessibility, and make your code easier to read and maintain.
+    </p>
+    <h2>
+        Commonly Used Semantic Tags
+    </h2>
+    <p>
+        Here are some commonly used semantic tags in HTML:
+    </p>
+    <ul>
+        <li><strong>header</strong>: Contains introductory content.</li>
+        <li>
+            <strong>footer</strong>: Holds footer information.
+        </li>
+        <li><strong>article</strong>: Encapsulates a self-contained composition.</li>
+        <li><strong>section</strong>: Represents a standalone section.</li>
+        <li><strong>aside</strong>: Contains content aside from the content it is placed in.</li>
+        <li><strong>nav</strong>: Holds navigation links.</li>
+    </ul>
+    <h2>EXAMPLES</h2>
+    <div>
+        <h3>
+            using the "&lt;header&gt;" and "&lt;footer&gt;" tags
+        </h3>
+        <img src="header.footer.png" alt="source of header and footer">
+        <h3>
+            using the "&lt;articles&gt;" and "&lt;section&gt;" tags
+        </h3>
+        <img src="article.section.png" alt="the source code of articles and section">
+        <h3>
+            using the "&lt;aside&gt;" and "&lt;nav&gt;" tags
+        </h3>
+        <img src="nav.png" alt="the source code of aside and nav">
+        <h3>
+            using the "&lt;figure&gt;" and "&lt;figcaption&gt;" tags
+        </h3>
+     <img src="figure.png" alt="the source code of figure and figcaption">
+    </div>
+   <h2>
+    Conculsion
+   </h2>
+   <p>Using HTML's semantic tags can greatly benefit both your website's SEO and the maintainability of your code. They offer a way to structure your HTML in a meaningful manner, making your website more accessible and easier to understand.</p>
+    <footer>
+       <img src="harry.bhai.png" alt="harry bhai ki image">
+        <a href="https://www.codewithharry.com/">CodeWithHarry</a>
+        |copyright CHS | all right reserved <a href="https://www.facebook.com/CodeWithHarry/">codewithharry.facebook</a> <a href=""></a>
+    </footer>
+  
+</body>
+
+</html>
